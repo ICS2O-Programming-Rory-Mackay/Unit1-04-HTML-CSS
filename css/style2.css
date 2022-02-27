@@ -1,19 +1,20 @@
 /* Created by: Rory Mackay
 * Created on: Feb 2022
+* This CSS file defines the style for more-style.html
 *ICS2O-Unit1-04-HTML-CSS
 */
 
 body {
-  background-color: #2ce679
+  background-color: #f6fa05
 }
 
 h1 {
-  background-color: #1c97d4
+  background-color: #0400f5
   color: MediumSeaGreen
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #fa0000
+  background-color: #f5a83d
 }
